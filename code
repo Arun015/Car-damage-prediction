@@ -15,8 +15,8 @@ from keras.layers import Input, Add,Dropout, Dense, Activation, ZeroPadding2D, B
 from keras.callbacks import ReduceLROnPlateau,ModelCheckpoint,EarlyStopping
 from keras.applications.imagenet_utils import preprocess_input
 
-a='C:\\Users\\HP\\Desktop\\New folder (3)\\Internship\\images_chem4'
-b='C:\\Users\\HP\\Desktop\\New folder (3)\\Internship\\annot_chem4'
+a=''
+b=''
 
 y=[]
 mypath=a
